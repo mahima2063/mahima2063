@@ -16,7 +16,6 @@ Hi, I'm Mahima Bhattarai!
 ## 💡 My Skills  
 - 🌐 Web Development (HTML, CSS, JavaScript)
 -    Language(Python,Java)
-- ⚙️ Backend (Node.js, Express, MySQL)  
 - 🖥️ Version Control (Git, GitHub)  
 
 ## 🤝 Why I Want to Join the Developers' Community  
