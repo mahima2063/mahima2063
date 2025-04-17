@@ -16,7 +16,7 @@ Hi, I'm Mahima Bhattarai!
 ##  My Skills  
 -  Web Development (HTML, CSS, JavaScript)
 -  Language(Python,Java)
-- 🖥 Version Control (Git, GitHub)  
+-  Version Control (Git, GitHub)  
 
 ##  Why I Want to Join the Developers' Community  
 I believe in **learning, sharing, and growing together**!  
